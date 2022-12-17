@@ -6,6 +6,11 @@ topics: ["Android"]
 published: true
 ---
 
+本記事は「株式会社RetailAI X Advent Calendar 2022」の17日目の記事です。
+昨日は@takudooonさんの「[ESP32を通してUSBデバイスへの理解をちょっと深めた話](https://zenn.dev/takudooon/articles/79345e925bba01)」でした。
+
+---
+
 パスワードレスな認証を実現する認証ミドルウェア Hankoを、モバイルアプリから利用する手順とサンプルコードが公式から提供されたので、勉強のために動かしてみます。
 
 https://docs.hanko.io/guides/mobile_guide
@@ -92,3 +97,8 @@ https://docs.hanko.io/guides/mobile_guide
 https://codelabs.developers.google.com/codelabs/fido2-for-android#0
 
 https://github.com/mojaloop/contrib-fido2-flutter-lib
+
+
+# 次は…
+
+明日は、@yoshitake_tatsuhiroさんの記事になります！
