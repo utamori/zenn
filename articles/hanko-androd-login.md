@@ -1,9 +1,9 @@
 ---
-title: "Hankoを使ってAndroidでパスキーログインやってみる"
-emoji: "👻"
+title: "Hankoを使ってAndroidでPassKeyログインするやつをやりたかった"
+emoji: "🎃"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Android"]
-published: false
+published: true
 ---
 
 パスワードレスな認証を実現する認証ミドルウェア Hankoを、モバイルアプリから利用する手順とサンプルコードが公式から提供されたので、勉強のために動かしてみます。
