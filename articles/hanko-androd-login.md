@@ -119,6 +119,6 @@ https://github.com/mojaloop/contrib-fido2-flutter-lib
 
 # 次は…
 
-明日は、@yoshitake_tatsuhiroさんの記事になります！
+明日は、@yoshitake_tatsuhiroさんの[Prefectを試用した](https://qiita.com/yoshitake_tatsuhiro/items/8a066d106a7d32bc41d0)になります！
 
 
