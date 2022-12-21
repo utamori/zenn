@@ -2,7 +2,7 @@
 title: "Hankoを使ってAndroidでpassKeyログイン試してみた"
 emoji: "🎃"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Android"]
+topics: ["Android","passkey"]
 published: true
 ---
 
