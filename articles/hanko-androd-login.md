@@ -42,7 +42,7 @@ object ApiRoutes {
 
 このままではパスキーは登録できないので、アプリリンクを設定します。
 
-## アプリリンク設定
+## デジタルアセットリンク設定
 
 https://developers.google.com/identity/fido/android/native-apps
 
@@ -74,7 +74,7 @@ https://developers.google.com/identity/fido/android/native-apps
 > 例:  \"include\":"https://{project}.trycloudflare.com/.well-known/assetlinks.json\"
 
 
-# hanko cloud側の設定
+## hanko cloud側の設定
 
 プロジェクト Sttings > Hanko APP URL に assetlinks.jsonをホスティングしているドメインを入力
 
@@ -86,7 +86,7 @@ echo 'android:apk-key-hash:'"$(keytool -exportcert -alias androiddebugkey -keyst
 ```
 
 
-# 起動
+## 起動
 
 起動する前に、動かす端末やエミュレーターで以下を行ってください
 
@@ -118,6 +118,7 @@ https://developers.google.com/identity/fido/android/native-apps
 
 https://github.com/mojaloop/contrib-fido2-flutter-lib
 
+https://developer.android.com/training/app-links/verify-android-applinks?hl=ja#web-assoc
 
 
 # 次は…
